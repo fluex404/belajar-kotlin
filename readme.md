@@ -11,5 +11,4 @@
 <li>Functions</li>
 <li>Null Safety</li>
 
-<h2> Hallo World </h2>
 
